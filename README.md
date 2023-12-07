@@ -6,7 +6,8 @@ The dataset is a Chronological Table of Epidemic and Pandemic Events in human Hi
 
 Event / Date / Location / Disease / Deathtoll / Reference
 
-Althogh I thibk this dataset is interesting, I think it's not well formatted, which limits the exploration that one can do in it. I think the dataset could use a reformatting using more consitents manner to note the values. We know that the method used to collect the data is web scraping and the source is the Wikipedia page of lists of epidemics and pandemics. There is no information on the authors. 
+Althogh I think this dataset is interesting, I think it's not well formatted, which limits the exploration that one can do in it. I think the dataset could use a reformatting using more consitents manner to note the values. There are often elements in ( ) which could be noted differently and the numbers are often not integers so it's difficult to make a vizualisation of the deathtolls for example. 
+We know that the method used to collect the data is web scraping and the source is the Wikipedia page of lists of epidemics and pandemics. There is no information on the authors. 
 
 The questions asked are the following: 
 - **What locations and years are associated with recorded instances of the Bubonic Plague in the dataset?**
