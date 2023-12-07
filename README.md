@@ -16,4 +16,4 @@ The questions asked are the following:
 - **Which locations have had more than 2 instances of Smallpox, and how many instances were recorded in each of those locations?**
 
 The vizualisation shows the following: 
-- **Vizualisation of the number of instances for the selected countries: China, Spain, Italy, England, France and Russia.** 
+- **Vizualisation of the number of epidemic instances for the selected countries: China, Spain, Italy, England, France and Russia.** 
